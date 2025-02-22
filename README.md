@@ -1,16 +1,18 @@
-## Hi there 👋
+#### Olá, meu nome é vinycius
 
-<!--
-**VinyciusS06/VinyciusS06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinyciusS06)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Vinycius GitHub stats](https://github-readme-stats.vercel.app/api?username=VinyciusS06&show_icons=true&theme=radical)
+
+### Tecnologias que ultilizo em meu dia a dia
+<div style="display: inline-block">
+  <br />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br /> 
+
+Codar não é só escrever linhas, é transformar ideias em realidade!
+
+
